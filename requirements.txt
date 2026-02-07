@@ -1,0 +1,22 @@
+# Core
+python>=3.9
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Data handling
+numpy
+opencv-python
+pyyaml
+
+# Training utilities
+tqdm
+
+# Visualization
+matplotlib
+
+# DINOv2 requirements
+timm
+einops
